@@ -29,9 +29,9 @@ List
 *cse
 
 <h3>nested list</h3>
-1.ece
-  -first year
-  -students are good
+ 1.ece
+   -first year
+   -students are good
 
 
 
