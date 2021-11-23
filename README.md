@@ -8,14 +8,16 @@
 |2|rajinikanth|60|mech|
 |3|kamal hassan|70|ece|
 |4|chiranjeevi|80|eee|
+
 List
-ordered list
+<h3>ordered list</h3>
 1.ece
 2.cse
 3.eee
 4.mech
 5.it
-unordered list
+
+<h3>unordered list</h3>
 -ece
 -eee
 -mech
@@ -26,8 +28,23 @@ unordered list
 *mech
 *cse
 
-#nested list
+<h3>nested list</h3>
 1.ece
   -first year
   -students are good
+
+
+
 ```python code
+
+a=10
+
+if a%2==0:
+
+print("even number")
+
+else:
+
+print("odd number")
+
+```
